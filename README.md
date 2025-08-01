@@ -1,4 +1,3 @@
 # Basic_Python_Programs
-Author - rickviper
-<br>
-This repo is created to keep track of my codes for some basic python problems.
+
+This repo is contains some of the very basic beginner friendly codes in Python which can be useful to someone who is just starting out. 
